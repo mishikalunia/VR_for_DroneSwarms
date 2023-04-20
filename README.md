@@ -6,5 +6,8 @@
 
 ![image](https://user-images.githubusercontent.com/63373951/233326357-8252c3dd-594b-403b-8794-ee01aad02447.png)
 
+![image](https://user-images.githubusercontent.com/63373951/233327352-395b06b9-3672-4c92-9863-a8605810e589.png)
+
+
 
 • Utilizing the HTC Vive virtual reality (VR) headset, along with the OpenXR and SteamVR frameworks, to create an immersive and interactive experience to control the swarms. Locomoting and engaging with the pray/goal object to observe the behaviour of the pray-seeking model.
